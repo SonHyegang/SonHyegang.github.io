@@ -1,4 +1,7 @@
-title: Son Hyegang
+title: Test
+subtitle: "Test blog"
+email: oss67820@naver.com
+name: Son Hyegang
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "" # the subpath of your site, e.g. /blog
